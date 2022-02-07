@@ -1,5 +1,9 @@
 # Relayer
 
+## Further devlopment on the Realyer has been moved to: [cosmos/relayer](https://github.com/cosmos/relayer)  
+
+---  
+
 ![Relayer](./docs/images/comp.gif)
 
 [![Project Status: Initial Release](https://img.shields.io/badge/repo%20status-active-green.svg?style=flat-square)](https://www.repostatus.org/#active)
