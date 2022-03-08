@@ -1,8 +1,7 @@
 # Relayer
 
 **THIS REPO HAS BEEN ARCHIVED,**
-**ALL NEW PRS AND ISSUE TRACKING WILL BE CONDUCTED IN THE UPSTREAM REPO BELOW
- https://github.com/cosmos/relayer**
+**ALL NEW PRS AND ISSUE TRACKING WILL BE CONDUCTED IN THE UPSTREAM REPO --> https://github.com/cosmos/relayer**
 
 ![Relayer](./docs/images/comp.gif)
 
