@@ -1,5 +1,9 @@
 # Relayer
 
+**THIS REPO HAS BEEN ARCHIVED,**
+**ALL NEW PRS AND ISSUE TRACKING WILL BE CONDUCTED IN THE UPSTREAM REPO BELOW
+ https://github.com/cosmos/relayer**
+
 ![Relayer](./docs/images/comp.gif)
 
 [![Project Status: Initial Release](https://img.shields.io/badge/repo%20status-active-green.svg?style=flat-square)](https://www.repostatus.org/#active)
